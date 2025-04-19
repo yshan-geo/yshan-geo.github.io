@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yi Shan 单毅
+title: Yi Shan
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 单毅
 
 # Full name (for SEO)
 first_name: Yi
@@ -24,8 +24,8 @@ role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: School of Civil Engineering and Transportation,Guangzhou University
-    url: https://www.gzhu.edu.cn/
+  - name: School of Civil Engineering and Transportation, Guangzhou University
+    url: http://tm.gzhu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,7 +50,7 @@ education:
   - area: PhD Geotechnical Engineering
     institution: South China University of Technology
     date_start: 2013-09-01
-    date_end: 2018-05-01
+    date_end: 2018-04-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -60,47 +60,34 @@ education:
     institution: Shantou University
     date_start: 2010-09-01
     date_end: 2013-06-30
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: ''
   - area: BSc Civil Engineering
     institution: Nanchang University
     date_start: 2006-09-01
     date_end: 2010-06-30
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: ''
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral fellow
+    company_name: School of Architecture, South China University of Technology, China
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    date_start: 2018-05-01
+    date_end: 2020-07-01
+    summary: ''
+  - position: Postdoctoral fellow
+    company_name: School of Civil Engineering, Guangzhou University, China
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2020-08-01
+    date_end: 2022-12-31
+    summary: ''
+  - position: Visiting fellow
+    company_name: Department of Geosciences, University of Padova, Italy
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-08-01
+    date_end: 2022-07-31
+    summary: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -178,4 +165,4 @@ awards:
 
 ## About Me
 
-Yi Shan is an associate professor of Geotechnical Engineering at the Guangzhou University. His research interests include progressive failure mechanisms in sand–clay mixtures, static and dbynamic behavior of problematic soils and sustainable stabilization techniques, site-specific ground motion analysis and seismic design of underground structures.
+Yi Shan is an associate professor of Geotechnical Engineering at the Guangzhou University. His research interests include progressive failure mechanisms in sand–clay mixtures, static and dynamic behavior of problematic soils and sustainable stabilization techniques, site-specific ground motion analysis and seismic design of underground structures.
