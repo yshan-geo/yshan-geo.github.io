@@ -52,10 +52,10 @@ education:
     date_start: 2013-09-01
     date_end: 2018-04-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Mineral Composition Based Experimental Study of Dynamic Behaviors of Quaternary Marine Fine-grained Soil in the Typical Estuary Deltas of Guangdong_. Supervised by [Prof Haihong Mo](https://www2.scut.edu.cn/jtxy/2012/1207/c1889a37029/page.htm). 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://www.researchgate.net/publication/336603170_Mineral_Composition_Based_Experimental_Study_of_Dynamic_Behaviors_of_Quaternary_Marine_Fine-grained_Soil_in_the_Typical_Estuary_Deltas_of_Guangdong?_sg%5B0%5D=A5UIx9B6nTA9zz49fh69yG8WVJQMqddGabIoXyStUlfg9mkY8MBkIKD3BtF23069Rea319-I25lFM4rxLQtfyN27HfXgdiHaDU4Zo_Z9.PafG_TXlVAxLua74OII0IzK1ZvnWTx6HByekBfh5VHJkMmdeadi9IDbQjF38sV3iqjUeaVDEnID2hIkvdMcy8g&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0'
   - area: MEng Structural Engineering
     institution: Shantou University
     date_start: 2010-09-01
@@ -124,12 +124,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -165,4 +163,4 @@ awards:
 
 ## About Me
 
-Yi Shan is an associate professor of Geotechnical Engineering at the Guangzhou University. His research interests include progressive failure mechanisms in sand–clay mixtures, static and dynamic behavior of problematic soils and sustainable stabilization techniques, site-specific ground motion analysis and seismic design of underground structures.
+Yi Shan is an associate professor of geotechnical engineering at the Guangzhou University. His research interests include progressive failure mechanisms in sand–clay mixtures, static and dynamic behavior of problematic soils and sustainable stabilization techniques, site-specific ground motion analysis and seismic design of underground structures.
