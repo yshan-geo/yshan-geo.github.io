@@ -70,7 +70,7 @@ education:
   - area: BSc Civil Engineering
     institution: Nanchang University
     date_start: 2006-09-01
-    date_end: 2010-06-31
+    date_end: 2010-06-30
     summary: |
       GPA: 3.4/4.0
       
