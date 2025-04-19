@@ -59,7 +59,7 @@ education:
   - area: MEng Structural Engineering
     institution: Shantou University
     date_start: 2010-09-01
-    date_end: 2013-06-31
+    date_end: 2013-06-30
     summary: |
       GPA: 3.8/4.0
 
