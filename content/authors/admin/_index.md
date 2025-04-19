@@ -34,31 +34,32 @@ profiles:
     url: 'mailto:yshan@gzhu.edu.cn'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yi-shan-ab9512123/
+    url: https://www.linkedin.com/in/yi-shan-ab9512123
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=z-L7qj0AAAAJ&hl
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6513-1189
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Geotechnical Engineering
+  - Engineering Geology
+  - Soil Dynamic Property
+  - Geotechnical Testing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Geotechnical Engineering
+    institution: South China University of Technology
+    date_start: 2013-09-01
+    date_end: 2018-05-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Structural Engineering
+    institution: Shantou University
+    date_start: 2010-09-01
+    date_end: 2013-06-31
     summary: |
       GPA: 3.8/4.0
 
@@ -66,10 +67,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Civil Engineering
+    institution: Nanchang University
+    date_start: 2006-09-01
+    date_end: 2010-06-31
     summary: |
       GPA: 3.4/4.0
       
@@ -140,8 +141,6 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -177,4 +176,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yi Shan is an associate professor of Geotechnical Engineering at the Guangzhou University. His research interests include progressive failure mechanisms in sand–clay mixtures, static and dbynamic behavior of problematic soils and sustainable stabilization techniques, site-specific ground motion analysis and seismic design of underground structures.
