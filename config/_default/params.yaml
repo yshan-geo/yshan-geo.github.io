@@ -58,3 +58,6 @@ features:
     enable: false
   privacy_pack:
     enable: false
+    
+# Google site verify
+google-site-verification ="ao2QCBk0ayKxKod5fvNgi3dW_UOn92x2mlCujgUzm3k"
