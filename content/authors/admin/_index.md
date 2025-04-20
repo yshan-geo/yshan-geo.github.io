@@ -71,7 +71,7 @@ education:
     date_end: 2010-06-30
     summary: ''
 work:
-  - position:Visiting fellow
+  - position: Visiting fellow
     company_name: Department of Geosciences, University of Padova, Italy
     company_url: ''
     company_logo: ''
