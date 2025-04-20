@@ -71,21 +71,21 @@ education:
     date_end: 2010-06-30
     summary: ''
 work:
-- position:Visiting fellow
+  - position:Visiting fellow
     company_name: Department of Geosciences, University of Padova, Italy
     company_url: ''
     company_logo: ''
     date_start: 2021-08-01
     date_end: 2022-07-31
     summary: ''
-- position: Postdoctoral fellow
+  - position: Postdoctoral fellow
     company_name: School of Civil Engineering, Guangzhou University, China
     company_url: ''
     company_logo: ''
     date_start: 2020-08-01
     date_end: 2022-12-31
     summary: ''
-- position: Postdoctoral fellow
+  - position: Postdoctoral fellow
     company_name: School of Architecture, South China University of Technology, China
     company_url: ''
     company_logo: ''
