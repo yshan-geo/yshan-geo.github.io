@@ -39,6 +39,10 @@ profiles:
     url: https://scholar.google.com/citations?user=z-L7qj0AAAAJ&hl
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6513-1189
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Yi-Shan-3
+  - icon: academicons/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=57190271973
 
 interests:
   - Geotechnical Engineering
@@ -67,26 +71,26 @@ education:
     date_end: 2010-06-30
     summary: ''
 work:
-  - position: Postdoctoral fellow
-    company_name: School of Architecture, South China University of Technology, China
+- position:Visiting fellow
+    company_name: Department of Geosciences, University of Padova, Italy
     company_url: ''
     company_logo: ''
-    date_start: 2018-05-01
-    date_end: 2020-07-01
+    date_start: 2021-08-01
+    date_end: 2022-07-31
     summary: ''
-  - position: Postdoctoral fellow
+- position: Postdoctoral fellow
     company_name: School of Civil Engineering, Guangzhou University, China
     company_url: ''
     company_logo: ''
     date_start: 2020-08-01
     date_end: 2022-12-31
     summary: ''
-  - position: Visiting fellow
-    company_name: Department of Geosciences, University of Padova, Italy
+- position: Postdoctoral fellow
+    company_name: School of Architecture, South China University of Technology, China
     company_url: ''
     company_logo: ''
-    date_start: 2021-08-01
-    date_end: 2022-07-31
+    date_start: 2018-05-01
+    date_end: 2020-07-01
     summary: ''
 
 # Skills
