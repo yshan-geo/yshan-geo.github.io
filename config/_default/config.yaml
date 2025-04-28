@@ -2,3 +2,5 @@ baseURL: "https://yshan-geo.github.io"
 title: "My Academic Website"
 disableKinds:
   - taxonomy
+  - taxonomyTerm
+
